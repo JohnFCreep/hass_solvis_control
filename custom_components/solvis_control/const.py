@@ -43,6 +43,8 @@ REGISTERS = [
         name="ww_mode",
         address=2304,
         unit="",
+        device_class=None,
+        state_class=None,
         register=2,
         multiplier=1,
         edit=True,
@@ -90,8 +92,8 @@ REGISTERS = [
         multiplier=1,
         data=("2", "3", "4", "5", "6", "7"),
     ),
-    ModbusFieldConfig(  # HKR1 Solltemperatur Tag
-        name="hkr1_solltemperatur_tag",
+    ModbusFieldConfig(  # HKR1 Solltemperatur
+        name="hkr1_solltemperatur",
         address=2820,
         unit="°C",
         device_class="temperature",
