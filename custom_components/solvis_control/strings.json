@@ -113,6 +113,9 @@
       "runtime_gasburner": {
         "name": "Laufzeit Brenner"
       },
+      "runtime_gasburner_2": {
+        "name": "Laufzeit Brenner 2"
+      },
       "number_gas_burner_start": {
         "name": "Brennerstarts"
       },
@@ -134,17 +137,14 @@
       "a12_brennerstatus": {
         "name": "A12.Brennerstatus"
       },
-      "ww_nachheizung_2322": {
-        "name": "WW Nachheizung 2322"
-      },
       "solar_water_flow": {
         "name": "Durchflussmenge Solar"
       },
       "domestic_water_flow": {
         "name": "Durchfluss Warmwasserzirkualation"
       },
-      "version_sc2": {
-        "name": "Version SC2"
+      "version_sc3": {
+        "name": "Version SC3"
       },
       "version_nbg": {
         "name": "Version NBG"
