@@ -160,11 +160,11 @@
       "ww_solltemperatur": {
         "name": "WW Solltemperatur"
       },
-      "hkr1_absenktemperatur_nacht": {
-        "name": "HKR1 Absenktemperatur Nacht"
+      "hkr1_absenktemperatur": {
+        "name": "HKR1 Absenktemperatur"
       },
-      "hkr1_solltemperatur_tag": {
-        "name": "HKR1 Solltemperatur Tag"
+      "hkr1_solltemperatur": {
+        "name": "HKR1 Solltemperatur"
       },
       "raumtemperatur_hkr1": {
         "name": "Raumtemperatur HKR1"
